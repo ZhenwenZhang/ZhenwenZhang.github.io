@@ -13,7 +13,7 @@ tags:
   - 对于带权图而言，顶点之间有边存在则在矩阵中用边的权值表示.
 
 <div align='center'>
-  <img src="assets/images/data_structure/graph1.jpg">
+  <img src="/assets/images/data_structure/graph1.jpg">
   <p>图1 无向图及其邻接矩阵</p>
 </div>
 
