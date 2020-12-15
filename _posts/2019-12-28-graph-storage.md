@@ -1,7 +1,5 @@
 ---
 title: '图的存储结构'
-category: sjjg
-permalink: /articles/graph-storage/
 tags: 
   - 数据结构
   - 算法分析
