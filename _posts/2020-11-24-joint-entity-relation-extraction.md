@@ -1,5 +1,9 @@
 ---
 title: "A Frustratingly Easy Approach for Joint Entity and Relation Extraction"
+tags:
+  - 实体识别
+  - 关系识别
+  - 联合建模
 ---
 
 **作者**：Zexuan Zhong, Danqi Chen. Department of Computer Science, Princeton University
