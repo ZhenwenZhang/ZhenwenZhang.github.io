@@ -1,7 +1,5 @@
 ---
 title: '图的应用'
-category: sjjg
-permalink: /articles/graph-applications/
 tags:
   - 数据结构
   - 算法分析
@@ -25,7 +23,7 @@ GENERATE_MST(G){
 
 * Prim算法
   <div align='center'>
-    <img src="assets/images/data_structure/graph10.jpg">
+    <img src="/assets/images/data_structure/graph10.jpg">
     <p>图1 Prim算法构造最小生成树过程</p>
   </div>
 
@@ -34,7 +32,7 @@ GENERATE_MST(G){
 
 * Kruskal算法
   <div align='center'>
-    <img src="assets/images/data_structure/graph11.jpg">
+    <img src="/assets/images/data_structure/graph11.jpg">
     <p>图2 Kruskal算法构造最小生成树过程</p>
   </div>
 
@@ -52,7 +50,7 @@ GENERATE_MST(G){
   - 更新：对其余各条路径进行更新。
   
   <div align='center'>
-    <img src="assets/images/data_structure/graph12.jpg">
+    <img src="/assets/images/data_structure/graph12.jpg">
     <p>图3 Dijkstra算法求单源最短路径问题</p>
   </div>
 
@@ -68,7 +66,7 @@ GENERATE_MST(G){
   - 在所有可能的路径中选择一条路径长度最短的。
 
   <div align='center'>
-    <img src="assets/images/data_structure/graph13.jpg">
+    <img src="/assets/images/data_structure/graph13.jpg">
     <p>图4 Floyd算法求各顶点之间最短路径问题</p>
   </div>
 
@@ -88,7 +86,7 @@ GENERATE_MST(G){
   - 如果一个图的邻接矩阵是三角矩阵，则可能存在拓扑序列。
 
   <div align='center'>
-    <img src="assets/images/data_structure/graph14.jpg">
+    <img src="/assets/images/data_structure/graph14.jpg">
     <p>图5 有向图G</p>
   </div>
 
@@ -135,7 +133,7 @@ GENERATE_MST(G){
 5. 求AOE网中所有活动的差额$d$，找出$d=0$的活动构成关键路径。
 
   <div align='center'>
-    <img src="assets/images/data_structure/graph15.jpg">
+    <img src="/assets/images/data_structure/graph15.jpg">
     <p>图6 求解关键路径的过程</p>
   </div>
 

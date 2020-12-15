@@ -18,12 +18,12 @@ tags:
 </div>
 
 <div align='center'>
-  <img src="assets/images/data_structure/graph2.jpg">
+  <img src="/assets/images/data_structure/graph2.jpg">
   <p>图2 有向图及其邻接矩阵</p>
 </div>
 
 <div align='center'>
-  <img src="assets/images/data_structure/graph3.jpg">
+  <img src="/assets/images/data_structure/graph3.jpg">
   <p>图3 网及其邻接矩阵</p>
 </div>
 
@@ -54,17 +54,17 @@ typedef struct{
   - 邻接表法由顶点表和边表实现，顶点表存储图中顶点元素信息，边表存储与该顶点连通顶点的边信息.
 
 <div align='center'>
-  <img src="assets/images/data_structure/graph4.jpg">
+  <img src="/assets/images/data_structure/graph4.jpg">
   <p>图4 顶点表和边表结点结构</p>
 </div>
 
 <div align='center'>
-  <img src="assets/images/data_structure/graph5.jpg">
+  <img src="/assets/images/data_structure/graph5.jpg">
   <p>图5 无向图的邻接表表示法</p>
 </div>
 
 <div align='center'>
-  <img src="assets/images/data_structure/graph6.jpg">
+  <img src="/assets/images/data_structure/graph6.jpg">
   <p>图6 有向图的邻接表表示法</p>
 </div>
 
@@ -99,7 +99,7 @@ typedef struct{
 ## 十字链表
   十字链表是有向图的一种链式存储结构，解决了有向图邻接表表示法中只能计算出度问题。
 <div align='center'>
-  <img src="assets/images/data_structure/graph7.jpg">
+  <img src="/assets/images/data_structure/graph7.jpg">
   <p>图7 十字链表存储结点结构</p>
 </div>
 
@@ -114,7 +114,7 @@ typedef struct{
     firstout：指向以该顶点为弧尾的下一个弧结点.
 
 <div align='center'>
-  <img src="assets/images/data_structure/graph8.jpg">
+  <img src="/assets/images/data_structure/graph8.jpg">
   <p>图8 十字链表表示法</p>
 </div>
 
@@ -145,7 +145,7 @@ typedef struct{
 图的邻接表表示容易求结点和边的各种信息，但在邻接表中求两个顶点之间是否存在边而对边执行删除操作时，需要分别在两个顶点的边表中遍历，效率较低。
 
 <div align='center'>
-  <img src="assets/images/data_structure/graph9.jpg">
+  <img src="/assets/images/data_structure/graph9.jpg">
   <p>图9 邻接多重表存储结点结构</p>
 </div>
 

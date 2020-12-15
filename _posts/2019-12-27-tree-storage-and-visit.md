@@ -1,7 +1,5 @@
 ---
 title: '树的存储与遍历'
-category: sjjg
-permalink: /articles/tree-storage-and_visit/
 tags:
   - 数据结构
   - 算法分析
@@ -12,7 +10,7 @@ tags:
 树有多种存储方式，既可以采用顺序存储结构，又可采用链式存储结构。常用以下3种存储结构：
 * 双亲表示法：使用连续空间来存储每个结点，同时在每个结点中增设一个伪指针指示其双亲结点在数组中的位置。
 <div align='center'>
-  <img src="assets/images/data_structure/tree9.jpg">
+  <img src="/assets/images/data_structure/tree9.jpg">
   <p>图1 双亲表示法</p>
 </div>
 
@@ -30,13 +28,13 @@ typedef struct{                 //树的类型定义
 
 * 孩子表示法：将每个结点的孩子结点用单链表链接起来形成一个线性结构，n个结点有n个孩子链表。
 <div align='center'>
-  <img src="assets/images/data_structure/tree10.jpg">
+  <img src="/assets/images/data_structure/tree10.jpg">
   <p>图2 孩子表示法</p>
 </div>
 
 * 孩子兄弟表示法：二叉树表示法，每个结点包括三部分内容：结点值、只想借点第一个孩子结点的指针，及指向结点下一个兄弟结点的指针。
 <div align='center'>
-  <img src="assets/images/data_structure/tree11.jpg">
+  <img src="/assets/images/data_structure/tree11.jpg">
   <p>图3 孩子兄弟表示法</p>
 </div>
 
@@ -54,13 +52,13 @@ typedef struct CSNode{          //树的结点定义
       - 空间利用率低
 
 <div align='center'>
-  <img src="assets/images/data_structure/tree4.jpg">
+  <img src="/assets/images/data_structure/tree4.jpg">
   <p>图4 二叉树的顺序存储结构</p>
 </div>
   
   * 链式存储结构：用一个链表来存储一棵二叉树。
 <div align='center'>
-  <img src="assets/images/data_structure/tree5.jpg">
+  <img src="/assets/images/data_structure/tree5.jpg">
   <p>图5 二叉树的链式存储结构</p>
 </div>
 
@@ -143,14 +141,14 @@ typedef struct CSNode{          //树的结点定义
   
   例题：已知一棵二叉树的后序序列为DABEC，中序序列为DEBAC，则先序序列为CEDBA。  
   <div align='center'>
-    <img src="assets/images/data_structure/tree6.jpg">
+    <img src="/assets/images/data_structure/tree6.jpg">
     <p>图6 由后序和中序确定二叉树</p>
   </div>
 * 由二叉树的中序和后序遍历序列可以唯一地确定一棵二叉树。
 
   例题：已知一棵二叉树的先序序列为ABCDEF，中序序列为CBAEDF，则后序序列为CBEFDA。
   <div align='center'>
-    <img src="assets/images/data_structure/tree7.jpg">
+    <img src="/assets/images/data_structure/tree7.jpg">
     <p>图7 由先序和中序确定二叉树</p>
   </div>
 
@@ -158,14 +156,14 @@ typedef struct CSNode{          //树的结点定义
   
   例题：已知一棵二叉树的层次序列为ABCDEF，中序序列为BADCFE，则先序序列为ABCDEF。
   <div align='center'>
-    <img src="assets/images/data_structure/tree8.jpg">
+    <img src="/assets/images/data_structure/tree8.jpg">
     <p>图8 由层序和中序确定二叉树</p>
   </div>
 
 ## 树、森林与二叉树的转换
 * 树转换为二叉树
 <div align='center'>
-  <img src="assets/images/data_structure/tree12.jpg">
+  <img src="/assets/images/data_structure/tree12.jpg">
   <p>图9 树转换为二叉树</p>
 </div>
 
@@ -174,7 +172,7 @@ typedef struct CSNode{          //树的结点定义
 
 * 二叉树转换为树  
 <div align='center'>
-  <img src="assets/images/data_structure/tree13.jpg">
+  <img src="/assets/images/data_structure/tree13.jpg">
   <p>图10 二叉树转换为树</p>
 </div>
 
@@ -185,14 +183,14 @@ typedef struct CSNode{          //树的结点定义
     - 若二叉树非空，则二叉树的根及其左子树为第一棵树的二叉树形式，二叉树的根的右子树又可视为除第一棵树外的森林转换后的二叉树，以同样的方法，以此类推即可得到原始森林。
     - 需要注意的是：经过上述操作形成的子树仍为二叉树，需要将其转换为树。 
 <div align='center'>
-  <img src="assets/images/data_structure/tree14.jpg">
+  <img src="/assets/images/data_structure/tree14.jpg">
   <p>图10 二叉树转换为森林</p>
 </div>
 
 * 森林转换为二叉树
     - 将森林中的每棵树转换为二叉树，然后将每棵树的根相连，最后以第一棵子树的根为根节点将整棵树顺时针旋转45度。
 <div align='center'>
-  <img src="assets/images/data_structure/tree15.jpg">
+  <img src="/assets/images/data_structure/tree15.jpg">
   <p>图11 森林转换为二叉树</p>
 </div>
 

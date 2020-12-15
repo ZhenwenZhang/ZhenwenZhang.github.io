@@ -1,7 +1,5 @@
 ---
 title: '树的应用'
-category: sjjg
-permalink: /articles/tree-applications/
 tags:
   - 数据结构
   - 算法分析
@@ -11,7 +9,7 @@ tags:
 ## 二叉排序树
 
 <div align='center'>
-  <img src="assets/images/data_structure/tree16.jpg">
+  <img src="/assets/images/data_structure/tree16.jpg">
   <p>图1 二叉排序树</p>
 </div>
 
@@ -34,7 +32,7 @@ tags:
     - 若删除的结点只有左（右）子树，则用其左（右）子树替换。
     - 若删除的结点既有左子树又有右子树，则使用被删除结点的直接前驱结点（左子树中值最大的结点）或直接后继结点（右子树中值最小的结点）代替。
 <div align='center'>
-  <img src="assets/images/data_structure/tree17.jpg">
+  <img src="/assets/images/data_structure/tree17.jpg">
   <p>图2 二叉排序树删除操作</p>
 </div>
 
@@ -62,7 +60,7 @@ tags:
 
   例题：给定集合{3, 5, 6, 9, 12},其对应的哈夫曼树是？
 <div align='center'>
-  <img src="assets/images/data_structure/tree18.jpg">
+  <img src="/assets/images/data_structure/tree18.jpg">
   <p>图4 哈夫曼树的构造</p>
 </div>
 
