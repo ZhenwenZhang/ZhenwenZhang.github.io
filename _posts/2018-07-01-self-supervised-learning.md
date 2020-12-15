@@ -1,6 +1,6 @@
 ---
 title: The Illustrated Self-Supervised Learning
-tags: Self-Supervised Learning
+tags: Self-Supervised-Learning
 ---
 
 I first got introduced to self-supervised learning in a talk by Yann Lecun, where he introduced the “cake analogy” to illustrate the importance of self-supervised learning. In the talk, he said:
