@@ -1,8 +1,5 @@
 ---
 title: "A Frustratingly Easy Approach for Joint Entity and Relation Extraction"
-date: 2020-11-7
-featured: true
-weight: 4
 ---
 
 Zexuan Zhong, Danqi Chen. Department of Computer Science, Princeton University

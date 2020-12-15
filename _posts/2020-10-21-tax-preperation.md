@@ -1,8 +1,5 @@
 ---
 title: "Passive Diagnosis incorporating the PHQ-4 for Depression and Anxiety"
-date: 2020-11-2
-featured: true
-weight: 6
 ---
 
 Depression and anxiety are the two most prevalent mental health disorders worldwide, impacting the lives of millions of people each

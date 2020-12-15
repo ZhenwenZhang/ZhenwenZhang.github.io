@@ -1,8 +1,5 @@
 ---
 title: "机器学习术语"
-date: 2020-11-5
-featured: true
-weight: 4
 ---
 
 机器学习课程术语表，转载于Aminer平台。
