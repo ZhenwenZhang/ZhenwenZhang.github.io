@@ -1,7 +1,5 @@
 ---
 title: '线性表'
-category: sjjg
-permalink: /articles/linear-table/
 tags:
   - 数据结构
   - 算法分析

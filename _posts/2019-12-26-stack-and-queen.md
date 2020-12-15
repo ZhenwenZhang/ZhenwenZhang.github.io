@@ -1,7 +1,5 @@
 ---
 title: '栈和队列'
-category: sjjg
-permalink: /articles/stack-and-queue/
 tags:
   - 数据结构
   - 算法分析

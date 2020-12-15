@@ -22,7 +22,7 @@ tags:
 
 ## 树的基本形态
 <div align='center'>
-  <img src="/assets/images/data_structure/tree1.jpg" alt="树的基本形态">
+  <img src="/assets/images/3/tree1.jpg" alt="树的基本形态">
   <p>图1 树的基本形态</p>
 </div>
 
@@ -37,19 +37,19 @@ tags:
 
 ## 二叉树的基本形态
 <div align='center'>
-  <img src="/assets/images/data_structure/tree2.jpg" alt="二叉树的五种形态">
+  <img src="/assets/images/3/tree2.jpg" alt="二叉树的五种形态">
   <p>图2 二叉树的五种形态</p>
 </div>
 
 ### 满二叉树
 <div align='center'>
-  <img src="/assets/images/data_structure/tree1.jpg" alt="满二叉树">
+  <img src="/assets/images/3/tree1.jpg" alt="满二叉树">
   <p>图3 满二叉树</p>
 </div>
 
 ### 完全二叉树
 <div align='center'>
-  <img src="/assets/images/data_structure/tree3.jpg" alt="完全二叉树">
+  <img src="/assets/images/3/tree3.jpg" alt="完全二叉树">
   <p>图4 完全二叉树</p>
 </div>
 
