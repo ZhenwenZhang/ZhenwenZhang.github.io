@@ -7,7 +7,9 @@ tags:
   - 神经网络与深度学习
 ---
 
-**作者**：Zexuan Zhong, Danqi Chen. Department of Computer Science, Princeton University
+#### 作者
+
+Zexuan Zhong, Danqi Chen. Department of Computer Science, Princeton University
 
 **论文下载地址**：[https://arxiv.org/pdf/2010.12812.pdf](https://arxiv.org/pdf/2010.12812.pdf)
 
