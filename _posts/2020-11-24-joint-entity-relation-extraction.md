@@ -4,8 +4,7 @@ tags:
   - 实体识别
   - 关系抽取
   - 联合建模
-  - 深度学习
-  - 神经网络
+  - 神经网络与深度学习
 ---
 
 **作者**：Zexuan Zhong, Danqi Chen. Department of Computer Science, Princeton University

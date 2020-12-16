@@ -1,10 +1,7 @@
 ---
 title: '图的概念'
-category: sjjg
-permalink: /articles/graph-concepts/
 tags:
-  - 数据结构
-  - 算法分析
+  - 数据结构与算法分析
   - 图
 ---
 
