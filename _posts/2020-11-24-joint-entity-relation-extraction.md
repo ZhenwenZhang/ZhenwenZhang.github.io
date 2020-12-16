@@ -15,6 +15,12 @@ Zexuan Zhong, Danqi Chen. Department of Computer Science, Princeton University
 
 [https://arxiv.org/pdf/2010.12812.pdf](https://arxiv.org/pdf/2010.12812.pdf)
 
+#### 摘要
+
+End-to-end relation extraction aims to identify named entities and extract relations between them simultaneously. Most recent work models
+these two subtasks jointly, either by unifying them in one structured prediction framework, or multi-task learning through shared representations. In this work, we describe a very simple approach for joint entity and relation extraction, and establish the new stateof-
+the-art on standard benchmarks (ACE04, ACE05, and SciERC). Our approach essentially builds on two independent pre-trained encoders and merely uses the entity model to provide input features for the relation model. Through a series of careful examinations, we validate the importance of learning distinct contextual representations for entities and relations, fusing entity information at the input layer of the relation model, and incorporating global context. Finally, we also present an efficient approximation to our approach which requires only one pass of both encoders at inference time, obtaining a 8-16x speedup with a small accuracy drop.
+
 #### 作者提出的问题
 
 端到端的关系抽取旨在识别命名实体并抽取实体之间的关系，大多数研究工作将其视为两个子任务，要么通过一种结构联合建模，要么通过共享表示的方式进行多任务学习。
@@ -32,3 +38,7 @@ Zexuan Zhong, Danqi Chen. Department of Computer Science, Princeton University
 #### 模型结构
 
 ![联合抽取模型](/assets/images/4/model.png)
+
+#### 损失函数
+
+![损失函数](/assets/images/4/loss.png)
