@@ -1,7 +1,7 @@
 ---
 title: 计算机视觉Transformer综述
 tags:
-  - Computer Vision
+  - 计算机视觉
   - Transformer
 ---
 
