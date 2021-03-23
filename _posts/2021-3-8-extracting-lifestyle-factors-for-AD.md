@@ -14,3 +14,12 @@ tags:
 
 **Conclusion:** The proposed approach leveraging weak supervision could signicantly increase the sample size, which is required for training the deep learning models. The study also demonstrates the effectiveness of BERT models for extracting lifestyle factors for Alzheimer's disease from clinical notes. 
 
+**Our contributions:** 
+1. evaluating state-of-the-art clinical BERT models on the classication of lifestyle factors in clinical notes of patients with AD 
+2. using weak supervision to overcome the burdensome task of creating a hand-labeled dataset.
+
+![模型图](/assets/images/11/model.png)
+
+![数据示例](/assets/images/11/dataset_example.png)
+
+![实验结果](/assets/images/11/results.png)
