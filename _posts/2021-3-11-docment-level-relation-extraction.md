@@ -12,7 +12,7 @@ tags:
 
 **Results:** Experimental results on a large-scale DocRE dataset show that the proposed model can significantly improve the accuracy of relation extraction on a strong heterogeneous graph-based baseline. The code is publicly available at https://github.com/xwjim/DocRE-Rec.
 
-**Our contributions:** 
+<!-- **Our contributions:**  -->
 <!-- 1. evaluating state-of-the-art clinical BERT models on the classication of lifestyle factors in clinical notes of patients with AD 
 2. using weak supervision to overcome the burdensome task of creating a hand-labeled dataset. -->
 
