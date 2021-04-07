@@ -1,5 +1,5 @@
 ---
-title: Stanford Cs224w: Machine Learning With Graphs
+title: Stanford Cs224w - Machine Learning With Graphs
 tags:
   - GNN
 ---
