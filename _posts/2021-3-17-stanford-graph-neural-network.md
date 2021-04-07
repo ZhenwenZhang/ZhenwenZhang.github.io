@@ -4,7 +4,7 @@ tags:
   - GNN
 ---
 
-## Contents
+### Contents
 1. Introduction; Machine Learning for Graphs [slides](http://web.stanford.edu/class/cs224w/slides/01-intro.pdf)
 2. Traditional Methods for ML on Graphs [slides](http://web.stanford.edu/class/cs224w/slides/02-tradition-ml.pdf)
 3. Node Embeddings [slides](http://web.stanford.edu/class/cs224w/slides/03-nodeemb.pdf)
