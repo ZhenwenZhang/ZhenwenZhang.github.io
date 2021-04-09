@@ -9,3 +9,4 @@ tags:
 
 1. A Survey on Neural Network Interpretability
 2. Interpretable Machine Learning: A Brief History, State-of-the-Art and Challenges?
+3. Interpretable Machine Learning: A Guide for Making Black Box Models Explainable.Christoph Molnar
