@@ -30,7 +30,7 @@ key: page-about
 Zhenwen Zhang received the B.S degree and M.S degree from College of Computer Science and Engineering at Northwest Normal University in 2017 and 2020. Currently, he is a PhD candidate at the Gansu Provincial Key Laboratory of Wearable Computing, School of Information Science and Engineering, Lanzhou University.
 
 
-## Research
+### Research
 
 - Affective Computing
 - Knowledge Graph
